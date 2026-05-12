@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/dm_control/dm_control-${{ version }}.tar.gz
-  sha256: 3327e64538c230b8b95db5ed38e630236b81ae1775463eec27932aa22f730f44
+  sha256: f5966799662d8914bb4f181d2be939da2079f0e08e198f901bb54e61d46c0b90
 
 build:
   number: 0
