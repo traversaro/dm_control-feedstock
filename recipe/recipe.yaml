@@ -1,7 +1,7 @@
 context:
   name: dm-control
-  version: "1.0.38"
-  mujoco_min_version: "3.6.0"
+  version: "1.0.39"
+  mujoco_min_version: "3.7.0"
 
 package:
   name: ${{ name|lower }}
